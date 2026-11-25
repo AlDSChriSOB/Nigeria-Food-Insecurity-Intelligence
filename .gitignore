@@ -1,0 +1,8 @@
+*.dta
+*.sav
+*.parquet
+*.zip
+raw/
+private/
+__pycache__/
+.env
